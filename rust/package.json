@@ -1,7 +1,7 @@
 {
-  "name": "rust-pack",
-  "displayName": "rust-pack",
-  "version": "1.0.0",
+  "name": "super-rust",
+  "displayName": "super-rust",
+  "version": "1.0.1",
   "publisher": "abczyx2006",
   "description": "extensions for rust",
   "categories": [
@@ -23,12 +23,12 @@
   "license": "LICENSE",
   "markdown": "github",
   "bugs": {
-    "url": "https://github.com/abczyx2006/rust-pack/issues",
+    "url": "https://github.com/abczyx2006/super-rust/issues",
     "email": "abczyx2006@outlook.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/abczyx2006/rust-pack"
+    "url": "https://github.com/abczyx2006/super-rust"
   },
-  "homepage": "https://github.com/abczyx2006/rust-pack/tree/main/rust"
+  "homepage": "https://github.com/abczyx2006/super-rust/tree/main/rust"
 }

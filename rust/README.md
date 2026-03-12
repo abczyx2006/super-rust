@@ -10,21 +10,17 @@
 </h6>
 <div align="center">
 
-![GitHub](https://img.shields.io/github/license/abczyx2006/rust-pack?color=A3BE8C&style=flat-square)
-![Installs](https://vsmarketplacebadges.dev/installs-short/abczyx2006.python-pack.svg?&logo=visualstudiocode&color=A3BE8C)
-![Version](https://vsmarketplacebadges.dev/version-short/abczyx2006.python-pack.svg?&logo=visualstudiocode&color=A3BE8C&label=version)
-
 </div>
 
 ### about
 
 - pack of rust extensions for better development , all extensions packaged are given below.
 
-| Extension                 | Stats                                                                                                                                                 |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `rust-lang.rust-analyzer` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/rust-lang.rust-analyzer.svg?&logo=visualstudiocode&color=A3BE8C) |
-| `serayuzgur.crates`       | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/serayuzgur.crates.svg?&logo=visualstudiocode&color=A3BE8C)       |
-| `njpwerner.autodocstring` | ![Visual Studio Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/njpwerner.autodocstring.svg?&logo=visualstudiocode&color=A3BE8C) |
+| Extension                 | Stats                                 |
+| ------------------------- | ------------------------------------- |
+| `rust-lang.rust-analyzer` | ![Visual Studio Marketplace Installs] |
+| `serayuzgur.crates`       | ![Visual Studio Marketplace Installs] |
+| `njpwerner.autodocstring` | ![Visual Studio Marketplace Installs] |
 
 <br />
 
