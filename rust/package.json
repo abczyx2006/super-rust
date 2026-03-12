@@ -1,0 +1,34 @@
+{
+  "name": "rust-pack",
+  "displayName": "rust-pack",
+  "version": "1.0.0",
+  "publisher": "abczyx2006",
+  "description": "extensions for rust",
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "extensionPack": [
+    "rust-lang.rust-analyzer",
+    "serayuzgur.crates",
+    "dustypomerleau.rust-syntax"
+  ],
+  "license": "LICENSE",
+  "markdown": "github",
+  "bugs": {
+    "url": "https://github.com/abczyx2006/rust-pack/issues",
+    "email": "abczyx2006@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abczyx2006/rust-pack"
+  },
+  "homepage": "https://github.com/abczyx2006/rust-pack/tree/main/rust"
+}

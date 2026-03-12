@@ -1,0 +1,34 @@
+{
+  "name": "python-pack",
+  "displayName": "python",
+  "version": "1.0.0",
+  "publisher": "abczyx2006",
+  "description": "extensions for python",
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#3776AB",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "extensionPack": [
+    "ms-python.python",
+    "EricSia.pythonsnippets3",
+    "njpwerner.autodocstring"
+  ],
+  "license": "LICENSE",
+  "markdown": "github",
+  "bugs": {
+    "url": "https://github.com/abczyx2006/rust-pack/issues",
+    "email": "abczyx2006@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abczyx2006/rust-pack"
+  },
+  "homepage": "https://github.com/abczyx2006/rust-pack/tree/main/python"
+}

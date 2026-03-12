@@ -1,0 +1,36 @@
+{
+  "name": "main-pack",
+  "displayName": "main",
+  "version": "1.0.0",
+  "publisher": "abczyx2006",
+  "description": "nested extension pack",
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#212121",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "extensionPack": [
+    "abczyx2006.vscode-pack",
+    "abczyx2006.nodejs-pack",
+    "abczyx2006.svelte-pack",
+    "abczyx2006.python-pack",
+    "abczyx2006.rust-pack"
+  ],
+  "license": "LICENSE",
+  "markdown": "github",
+  "bugs": {
+    "url": "https://github.com/abczyx2006/rust-pack/issues",
+    "email": "abczyx2006@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abczyx2006/rust-pack"
+  },
+  "homepage": "https://github.com/abczyx2006/rust-pack/tree/main/main"
+}

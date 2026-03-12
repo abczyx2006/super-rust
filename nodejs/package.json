@@ -1,0 +1,36 @@
+{
+  "name": "nodejs-pack",
+  "displayName": "nodejs",
+  "version": "1.0.0",
+  "publisher": "abczyx2006",
+  "description": "extensions for nodejs",
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#339933",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "extensionPack": [
+    "standard.vscode-standard",
+    "rvest.vs-code-prettier-eslint",
+    "yatki.vscode-surround",
+    "jock.svg",
+    "abczyx2006.svelte-pack"
+  ],
+  "license": "LICENSE",
+  "markdown": "github",
+  "bugs": {
+    "url": "https://github.com/abczyx2006/rust-pack/issues",
+    "email": "abczyx2006@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abczyx2006/rust-pack"
+  },
+  "homepage": "https://github.com/abczyx2006/rust-pack/tree/main/nodejs"
+}

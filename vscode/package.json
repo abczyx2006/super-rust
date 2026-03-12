@@ -1,0 +1,45 @@
+{
+  "name": "vscode-pack",
+  "displayName": "vscode",
+  "version": "1.0.0",
+  "publisher": "abczyx2006",
+  "description": "extensions for vscode",
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#007ACC",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "extensionPack": [
+    "bobsparadox.seti-black",
+    "Equinusocio.moxer-icons",
+    "miguelsolorio.fluent-icons",
+    "usernamehw.errorlens",
+    "BriteSnow.vscode-toggle-quotes",
+    "oderwat.indent-rainbow",
+    "christian-kohler.path-intellisense",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "tamasfe.even-better-toml",
+    "ClemensPeters.format-json",
+    "jock.svg",
+    "bierner.markdown-preview-github-styles",
+    "bierner.markdown-checkbox"
+  ],
+  "license": "LICENSE",
+  "markdown": "github",
+  "bugs": {
+    "url": "https://github.com/abczyx2006/rust-pack/issues",
+    "email": "abczyx2006@outlook.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abczyx2006/rust-pack"
+  },
+  "homepage": "https://github.com/abczyx2006/rust-pack/tree/main/vscode"
+}
